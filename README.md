@@ -2,8 +2,6 @@ I'm Ythan Clarke DR. Orogo
 
 I am a second-year Computer Science student at New Era University, interested in Software Development and Cybersecurity. I enjoy working with Java, Python, and Database.
 
-I am currently learning SQL through IBM Db2 while strengthening my skills in Java programming. I focus on improving my understanding of software development, databases.
-
 ## 🎓 Education
 | Grade Level | Institution | Date |
 |-------------|:---------:|:----:|
