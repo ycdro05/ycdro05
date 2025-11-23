@@ -20,8 +20,3 @@ I am currently learning SQL through IBM Db2 while strengthening my skills in Jav
 - **Databases:** IBM DB2 Cloud
 - **Frameworks & Tools:** Lucidchart, Canva Education, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office
-
-## 📫 Connect with Me!
-- [LinkedIn](https://www.linkedin.com/in/ythan-clarke-d-orogo-739014339/)
-- [Gmail](https://myaccount.google.com/?hl=fil&utm_source=OGB&utm_medium=act&gar=WzI4MV0)
-- [Instagram](https://www.instagram.com/25.20.8.1.14c/)
