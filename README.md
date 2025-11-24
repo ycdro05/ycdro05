@@ -1,3 +1,5 @@
+# 👋 Hi, I'm **Ythan Clarke DR. Orogo**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Ythan%20Clarke%20Orogo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 I am a second-year Computer Science student at New Era University, interested in Software Development and Cybersecurity. I enjoy working with Java, Python, and Database.
@@ -8,7 +10,7 @@ I am a second-year Computer Science student at New Era University, interested in
 | College | New Era University (Bachelor of Science in Computer Science) | 2024 - Present |
 | High School | Commonwealth High School | 2018 - 2024 |
 
-## 📜 Certifications
+## 🏅 Certifications
 | Certificate | Issued By | Month Issued |
 |-------------|:---------:|:----:|
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/e8c1b8e863da455fb27adbde7234757e) | Cognitive Class (IBM) | Nov 2025 |
