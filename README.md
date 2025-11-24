@@ -1,5 +1,3 @@
-I'm Ythan Clarke DR. Orogo
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Ythan%20Clarke%20Orogo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 I am a second-year Computer Science student at New Era University, interested in Software Development and Cybersecurity. I enjoy working with Java, Python, and Database.
