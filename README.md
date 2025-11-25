@@ -43,7 +43,7 @@ I am a second-year Computer Science student at New Era University, interested in
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="(https://www.linkedin.com/in/ythan-clarke-d-orogo-739014339/?trk=public-profile-join-page)">
+  <a href="www.linkedin.com/in/ycdro05">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="mailto:ythanclarkeorogo@gmail.com">
