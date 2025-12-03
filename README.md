@@ -24,16 +24,6 @@ I am a second-year Computer Science student at New Era University, interested in
 - **Frameworks & Tools:** Lucidchart, Canva Education, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office
 
-## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ythanorogo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythanorogo&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ythanorogo&theme=react-dark&radius=10" />
-</p>
-
 ## Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
