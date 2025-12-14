@@ -20,7 +20,7 @@ I am a second-year Computer Science student at New Era University, interested in
 | [OCL Data Platform Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BF4562EAC49DD5D7D65628C225EB8B05011C23464FF431873AFD54DBA2A0B7F4) | Oracle University | Dec 2025 |
 
 ## 🛠 Skill Sets 
-- **Programming Languages:** Java, SQL, Python, HTML, CSS)
+- **Programming Languages:** Java, SQL, Python, HTML, CSS
 - **Databases:** IBM DB2 Cloud
 - **Frameworks & Tools:** Lucidchart, Canva Education, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office
